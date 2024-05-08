@@ -1,36 +1,39 @@
 # flutter_application_1
 
 ## Profil
-| Variable | Isi |
-| -------- | --- |
-| **Nama** | Ridha Muhammad Rifqi |
-| **NIM** | 312210491 |
-| **Kelas** | TI.22.A5 |
-| **Mata Kuliah** | Pemrograman Mobile |
+|                 |                                 |
+| --------------  | ------------------------------- |
+| **Nama**        | Alfaza putra adjie ariefiansyah |
+| **NIM**         | 312210512                       |
+| **Kelas**       | TI.22.A5                        |
+| **Mata Kuliah** | Pemrograman Mobile 2            |
 
 
 ## OUTPUT
 
 # DATA PRODUK
-![DATA PRODUK](https://github.com/dhomuhammad/belajar-flutter/assets/130027527/8e1bd591-89d7-4309-82c1-15b039f1be6b)
+![DATA PRODUK](https://github.com/alfaza-putra/flutter_UTS_Mobile2/assets/129705943/2562983e-afc7-4d56-a403-92681e355a0e)
 
 
 
 
 # DETAIL PRODUK
-![DETAIL PRODUK](https://github.com/dhomuhammad/belajar-flutter/assets/130027527/1315ca7d-5e14-4d65-9951-0296f2145de7)
+![DETAIL PRODUK](https://github.com/alfaza-putra/flutter_UTS_Mobile2/assets/129705943/754c00fb-46fc-4f96-afd7-a7c0abf4403e)
+
 
 
 
 
 # FROM PRODUK
-![FROM PRODUK](https://github.com/dhomuhammad/belajar-flutter/assets/130027527/0b97bc6b-ed9f-47c3-9e51-800b64e892aa)
+![FROM PRODUK](https://github.com/alfaza-putra/flutter_UTS_Mobile2/assets/129705943/2844f94d-b9a6-4d2e-aa51-8cc08f5b0eac)
+
 
 
 
 
 # MENAMBAHKAN PRODUK
-![MENAMBAHKAH PRODUK](https://github.com/dhomuhammad/belajar-flutter/assets/130027527/7aa5573d-486a-467d-914a-cc58a7f717f8)
+![MENAMBAHKAH PRODUK](https://github.com/alfaza-putra/flutter_UTS_Mobile2/assets/129705943/a2d7e467-c5ac-4fac-82bf-9372954d2126)
+
 
 
 
